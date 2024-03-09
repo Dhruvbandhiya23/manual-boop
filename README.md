@@ -1,0 +1,2 @@
+# manual-boop
+all pracicals
