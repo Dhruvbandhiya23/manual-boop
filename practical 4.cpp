@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-double multi(double a,double b){
+inline double multi(double a,double b){
 
 return a*b;
 
