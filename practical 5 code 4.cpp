@@ -3,20 +3,20 @@ using namespace std;
 
 class data_information{
 double quantity;
-double coast;
+double cost;
 
 public:
      
  void put_data(double q,double c){
    quantity = q ;
-   coast = c ;
+   cost = c ;
  }
  double get_data();
 };
 
 double data_information::get_data(){
    cout << "The value of quantity : " << quantity << endl ;
-   cout << "The value of coast : " << coast ;
+   cout << "The value of cost : " << cost ;
    return 0;
 }
 
