@@ -36,11 +36,11 @@ cin >> e1.netsalary;
 cout << "enter the income tax of employee" << endl;
 cin >> e1.it;
 
-cout << "Employee number " << e1.num<<endl;
-cout << "Employee Name " << e1.name<<endl;
-cout << "Employee Basic " << e1.Basic<<endl;
- cout << "Employee DA" << e1.DA<<endl;
- cout << "Employee net salary " << e1.netsalary<<endl;   
-cout << "Employee income tax " << e1.it<<endl;
+cout << "Employee number =" << e1.num<<endl;
+cout << "Employee Name= " << e1.name<<endl;
+cout << "Employee Basic =" << e1.Basic<<endl;
+ cout << "Employee DA=" << e1.DA<<endl;
+ cout << "Employee net salary= " << e1.netsalary<<endl;   
+cout << "Employee income tax= " << e1.it<<endl;
     return 0;
 }
