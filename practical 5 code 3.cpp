@@ -36,10 +36,10 @@ convert c1;
     fixed ;
     
     
-    cout << "The value of cm into meters is " <<c1.centi()<<endl;
-cout << "The value of cm into km is " <<c1.cam()<<endl;
-cout << "the value of cm into feet is " <<c1.cmm()<< endl;
-cout << "The value of cm into in is " <<c1.cmmm()<<endl;
+    cout << "The value of cm into meters is " <<c1.centi()<<"m"<<endl;
+cout << "The value of cm into km is " <<c1.cam()<<"km"<<endl;
+cout << "the value of cm into feet is " <<c1.cmm()<<"ft"<< endl;
+cout << "The value of cm into in is " <<c1.cmmm()<<"in"<<endl;
     return 0;
     
 }
